@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cool Weather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cool_weather">Cool Weather</string>
+    <string name="dialog_title">Oops Sorry!</string>
+    <string name="failed_request">The request failed</string>
+    <string name="no_network">No active network available!</string>
+    <string name="hundred">100</string>
+    <string name="title_activity_activity_one">ActivityOne</string>
+    <string name="blank">--</string>
+
+</resources>
